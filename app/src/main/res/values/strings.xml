@@ -1,0 +1,32 @@
+<resources>
+    <string name="serVerName">山田一太郎</string>
+    <string name="serverName0">担当者名</string>
+    <string name="tableName">テーブル１</string>
+    <string name="tableName0">テーブル名</string>
+    <string name="next">次へ</string>
+    <string name="empanada">エンパナーダ</string>
+    <string name="_200">200</string>
+    <string name="number">0</string>
+    <string name="number1">0</string>
+    <string name="price1">200</string>
+    <string name="product2">ダミーデイジー</string>
+    <string name="product1">エンパナーダ</string>
+    <string name="price2">300円</string>
+    <string name="number2">0</string>
+    <string name="sendMessage">注文を送信しました。</string>
+    <string name="Are_you_sure">注文をキッチンに送信しますか？</string>
+    <string name="send">送信</string>
+    <string name="cancel">キャンセル</string>
+    <string name="confirm">注文を確定</string>
+    <string name="yen">円</string>
+    <string name="sum">合計</string>
+    <string name="tablename">テーブル名</string>
+    <string name="servername">担当者名</string>
+    <string name="productname">商品名</string>
+    <string name="price">値段</string>
+    <string name="productnumber">個数</string>
+    <string name="_200yen">200円</string>
+    <string name="order">注文</string>
+    <string name="itstoomuch">いや、、、多すぎます。</string>
+    <string name="app_name">Order</string>
+</resources>

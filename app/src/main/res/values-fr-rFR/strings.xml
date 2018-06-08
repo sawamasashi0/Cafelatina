@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Order</string>
+    <string name="serVerName">Michel</string>
+    <string name="serverName0">nom de serveur</string>
+    <string name="tableName">table1</string>
+    <string name="tableName0">nom de table</string>
+    <string name="next">suivant</string>
+    <string name="empanada">Empanada</string>
+    <string name="product2">Damy Daisy</string>
+    <string name="product1">Empanada</string>
+    <string name="price2">300yen</string>
+    <string name="sendMessage">Succès</string>
+    <string name="Are_you_sure">Envoyez vos commande?</string>
+    <string name="send">Commande</string>
+    <string name="cancel">Annuler</string>
+    <string name="confirm">Confirmer</string>
+    <string name="yen">yen</string>
+    <string name="sum">somme</string>
+    <string name="tablename">nom de table</string>
+    <string name="servername">nom de serveur</string>
+    <string name="productname">nom de produit</string>
+    <string name="price">prix</string>
+    <string name="productnumber">nombre</string>
+    <string name="_200yen">200yen</string>
+    <string name="order">commande</string>
+    <string name="itstoomuch">C\'est un peu trop</string>
+</resources>
